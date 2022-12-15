@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+.my-style {
+    color: hwb(1.5708rad 20% 10% / 0.7);
+    background-color: blue;
+    padding: 2px;
+}
